@@ -10,3 +10,8 @@ u can find 2 buttons
 at the blox fruits page
 Find ff(Fist of darkness)
 Find bb(FInd black beard which is alr spawned)
+To understand wht it does is:
+
+I have inputted multiple discord webhooks from different channels of blox fruits then i used replit to code an ai bot to go through messages and then get usernames which are verified on the servers and lets you join them which has the said thing you r looking for.
+
+Please contact me on discord blazerdude#4918 for any bugs
